@@ -1,4 +1,4 @@
-\*\*Tabs Event
+Tabs Event
 
 onClick 点击事件
 返回值为每个 tab 的 name
