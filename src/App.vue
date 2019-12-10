@@ -10,7 +10,7 @@
     </tabs>
     <ul>
       <li @click="addTab('test','大张三')">张三</li>
-      <li @click="addTab('test2','大理寺')">李四</li>
+      <li @click="addTab('test2','大理')">李四</li>
       <li @click="addTab">王五</li>
     </ul>
   </div>
